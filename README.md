@@ -1,0 +1,1 @@
+Input language contains simplified looping type while <boolean expression> do <assignment statement>; The logical expression can contain identifiers signs comparisons, whole decimal numbers without a sign, parentheses, and logical operators and and or. The assignment operator must consist of identifier assignment sign and a decimal integer constant unsigned.
